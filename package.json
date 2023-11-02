@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@npmcli/fs": "^3.1.0",
+    "axios": "^1.6.0",
+    "node-fetch": "^3.3.2",
+    "uuid": "^9.0.1"
+  }
+}
